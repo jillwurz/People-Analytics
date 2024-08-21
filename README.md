@@ -54,3 +54,7 @@ Welcome to my repository for People Analytics projects, where I explore workforc
 
 **Visualizations**:
 - Scatter plots, cluster visualizations, and box plots were used to represent the relationships and distributions of key variables.
+
+**Files**:
+- `Optimizing_Workforce_Strategies.ipynb`: Jupyter Notebook containing the full analysis.
+- `Dataset.csv`: The HR Analytics dataset used for this project.
